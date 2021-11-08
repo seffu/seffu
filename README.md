@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
 - 👯 I collaborate in Developing Data Products.
--
+
 - 🤝 I’m working on Cloud
 
 - 👨‍💻 All of my projects are available at [https://github.com/seffu](https://github.com/seffu)
