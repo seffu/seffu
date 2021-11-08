@@ -1,44 +1,27 @@
-<h1 align="center">Hi There 👋, I'm  Seffu Kioi</h1>
-
-<h3 align="center">A Kenyan Data Engineer & Python Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SeffuKioi&label=Profile%20views&color=0e75b6&style=flat" alt="Seffu_Kioi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seffu" alt="seffu" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-   <a href="https://g.co/kgs/gir3DG" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="Aws Cloud" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-
- 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
- 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<p><a target="_blank" rel="noopener noreferrer" href="https://github.com/kennedykwangari/kennedykwangari/blob/master/images/kennedykwangari.jpeg"><img align="right" alt="GIF" src="https://github.com/kennedykwangari/kennedykwangari/raw/master/images/kennedykwangari.jpeg" width="330" height="300" style="max-width: 100%;"></a></p>
+<br>
+<p align="center">
+	<a href="https://twitter.com/kennedykwangari" rel="nofollow"><img src="https://camo.githubusercontent.com/777d605dbd4906d3d78f0764059c9e36a9db04a5591bfb2c192dedd3b13d13c3/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f4b656e6e6564796b77616e676172693f6c6162656c3d404b656e6e6564796b77616e67617269267374796c653d736f6369616c" alt="Twitter" data-canonical-src="https://img.shields.io/twitter/follow/Kennedykwangari?label=@Kennedykwangari&amp;style=social" style="max-width: 100%;"></a>  
+	<a href="https://www.linkedin.com/in/kennedykwangari/" rel="nofollow"><img src="https://camo.githubusercontent.com/5db4f900a0a8272892d090719ed72f29ffd1e9e4601a801631c080ac992d90ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2d5f2e7376673f7374796c653d736f6369616c266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&amp;logo=linkedin" style="max-width: 100%;"></a>
+  <a href="https://github.com/kennedykwangari"><img src="https://camo.githubusercontent.com/b2d25b7687808bbf49084a9ebffc4e6e389e37c06272935a6110d35fcdba8219/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6b656e6e6564796b77616e676172692e7376673f6c6162656c3d476974487562267374796c653d736f6369616c" alt="GitHub" data-canonical-src="https://img.shields.io/github/followers/kennedykwangari.svg?label=GitHub&amp;style=social" style="max-width: 100%;"></a>
 </p>
-
-- 🔭 I’m currently working on Data Engineering
-
-- 🌱 I’m currently learning **Cloud & Data Engineering Projects**
-
-- 👯 I collaborate in Developing Data Products.
-
-- 🤝 I’m working on Cloud
-
-- 👨‍💻 All of my projects are available at [https://github.com/seffu](https://github.com/seffu)
-
-
-- 💬 Ask me about **Data,**
-
-- 📫 How to reach me **seffukioi@gmail.com*
-
-- ⚡ Fun fact **sudo chmod ....**
-
-### Blogs posts
+<p>Kennedy Wangari is an award winning Data Scientist based in Nairobi, Kenya. A Developer Advocate, Technical AI Community Lead, and Innovator at Deeplearning.AI: growing highly impactful tech/ developer communities in Sub-Saharan Africa, and harnessing the power of data, and innovative Artificial Intelligence Technology to make easier, and better African lives tomorrow. <br></p>
+<p>Promoting access to world-class AI education in Sub-Saharan Africa and Kenya has been his top priority agenda. His tremendous advocacy efforts for better AI Education across the African continent, championing for inclusion, and better representation of black people in AI, and AI processes have earned him the honorary title: The Data Captain from Africa.<br></p>
+<p>Kennedy is inspiring, educating, empowering, engaging, and driving today’s professional thoughtful conversations on LinkedIn, Mainstream Media on TV, Radio, Print journalism, policy debates, webinars, and expert sessions..<br></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f6fc86d0719bfeb97736b03fc4638b749fc2e5bd337d814037bf339df3b69a84/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b656e6e6564796b77616e676172692673686f775f69636f6e733d74727565267468656d653d67726561742d676174736279"><img src="https://camo.githubusercontent.com/f6fc86d0719bfeb97736b03fc4638b749fc2e5bd337d814037bf339df3b69a84/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b656e6e6564796b77616e676172692673686f775f69636f6e733d74727565267468656d653d67726561742d676174736279" alt="Kennedy's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kennedykwangari&amp;show_icons=true&amp;theme=great-gatsby" style="max-width: 100%;"></a></p>
+<hr>
+<h2><a id="user-content-social-media-profiles" class="anchor" aria-hidden="true" href="#social-media-profiles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Social Media Profiles:</h2>
+<ul>
+<li>Twitter: <a href="https://github.com/kennedykwangari">@kennedykwangari</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/kennedykwangari/" rel="nofollow">Kennedy Wangari</a></li>
+<li>Reddit: <a href="https://www.reddit.com/user/KennedyKWangari" rel="nofollow">Kennedy Wangari</a></li>
+</ul>
+<p><strong>I'm always open to interesting conversations and collaborations.</strong> <a href="https://github.com/kennedykwangari.github.io/contact/">Contact Me</a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/675855917c6586e9d25912d9f07a9cbdfe9eb10cbb418b66f797069d55d31bb4/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b656e6e6564796b77616e6761726926636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/675855917c6586e9d25912d9f07a9cbdfe9eb10cbb418b66f797069d55d31bb4/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6b656e6e6564796b77616e6761726926636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=kennedykwangari&amp;color=blue" style="max-width: 100%;"></a></p>
+<br>
+<p align="center">
+  <a href="https://https://kennedykwangari.github.io" rel="nofollow"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/website.png" height="50" width="130" alt="Website" style="max-width: 100%;"></a>
+	<a href="https://youtube.com/c/WajahatKarim3" rel="nofollow"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/youtube.png" height="50" width="130" alt="YouTube" style="max-width: 100%;"></a>
+  <a href="https://wajahatkarim.com/subscribe" rel="nofollow"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/newsletter.png" height="50" width="130" alt="Newsletter" style="max-width: 100%;"></a>
+  <a href="https://medium.com/@wajahatkarim3" rel="nofollow"><img src="https://raw.githubusercontent.com/wajahatkarim3/wajahatkarim3/master/icons/medium.png" height="50" width="130" alt="Medium" style="max-width: 100%;"></a>
+</p>
