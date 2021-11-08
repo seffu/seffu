@@ -32,13 +32,12 @@
 -
 - 🤝 I’m working on Cloud
 
-- 👨‍💻 All of my projects are available at [https://seffu.github.io/Profile/](https://seffu.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://github.com/seffu](https://github.com/seffu)
 
 
 - 💬 Ask me about **Data,**
 
 - 📫 How to reach me **seffukioi@gmail.com*
-
 
 - ⚡ Fun fact **sudo chmod ....**
 
