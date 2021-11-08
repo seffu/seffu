@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SeffuKioi&label=Profile%20views&color=0e75b6&style=flat" alt="Seffu_Kioi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WanjohiChristopher" alt="WanjohiChristopher" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seffu" alt="seffu" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -24,34 +24,22 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
-- 🔭 I’m currently working on  Call For Code Project For IBM
+- 🔭 I’m currently working on Data Engineering
 
 - 🌱 I’m currently learning **Cloud & Data Engineering Projects**
 
 - 👯 I collaborate in Developing Data Products.
-
-- 📝 I write articles on [Devto](https://dev.to/wanjohichristopher) and [Medium](https://medium.com/@nyagachris411/)
 -
 - 🤝 I’m working on Cloud
 
-- 👨‍💻 All of my projects are available at [https://WanjohiChristopher.github.io/Profile/](https://WanjohiChristopher.github.io/Profile/)
+- 👨‍💻 All of my projects are available at [https://seffu.github.io/Profile/](https://seffu.github.io/Profile/)
 
-- 📝 I regularly write articles on [https://chriswanjohi.netlify.app//](https://wanjohichris-bbbe9.web.app/)
 
 - 💬 Ask me about **Data,**
 
-- 📫 How to reach me **nyagachris411@gmail.com*
+- 📫 How to reach me **seffukioi@gmail.com*
 
 
 - ⚡ Fun fact **sudo chmod ....**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WanjohiChristopher&show_icons=true&locale=en&layout=compact" alt="elijahkungu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WanjohiChristopher&show_icons=true&locale=en" alt="WanjohiChristopher" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WanjohiChristopher&" alt="eWanjohiChristopher" /></p>
